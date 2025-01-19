@@ -179,7 +179,7 @@ p.note { display: none; }
 <a href="20250118_018.JPG" target="_blank"><img src="20250118_018.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">エリダヌス座はちょっとマニアックなので説明リンク貼ります</span></h2>
-<a href="https://stellaroom.com/constellation/eri.html" target="_blank">エリダヌス座の説明</a>
+<h1><a href="https://stellaroom.com/constellation/eri.html" target="_blank">エリダヌス座の説明</a></h1>
 
 
 
