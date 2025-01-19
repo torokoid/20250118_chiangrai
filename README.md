@@ -155,7 +155,7 @@ p.note { display: none; }
 <h2><span class="yellow">この日の空は雲ひとつない快晴</span></h2>
 <a href="20250118_011.JPG" target="_blank"><img src="20250118_011.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"> プールの水は綺麗で、50m先まではっきり見える透明度<br>I-Phoneで水中撮影</span></h2>
+<h2><span class="yellow"> プールの水は綺麗で、50m先まではっきり見える透明度<br>i-Phoneで水中撮影に挑戦！</span></h2>
 <a href="20250118_012.JPG" target="_blank"><img src="20250118_012.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">水中照明が切れたらしく、メンテ中でした</span></h2>
